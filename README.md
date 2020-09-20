@@ -1,2 +1,5 @@
 # Lamborghini-
-I have tried to replicate some parts/ features of the original Automobili Lamborghini webiste.
+This website is created with HTML5,CSS3 itself no other framework,bootstrap is used.
+Start viewing the website from welcome.html file,
+The Lamborghini logo works as home button ,
+
